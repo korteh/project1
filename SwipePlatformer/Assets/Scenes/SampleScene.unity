@@ -750,9 +750,7 @@ MonoBehaviour:
   ZSpeed: 0
   gravity: 30
   jumpSpeed: 10
-  controller: {fileID: 0}
   MoveDir: {x: 0, y: 0, z: 0}
-  GrPnd: 0
 --- !u!65 &606648017
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1751,7 +1749,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1685013057}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.43, y: 1.19, z: 13.02}
+  m_LocalPosition: {x: -17.58, y: 1.19, z: 13.02}
   m_LocalScale: {x: 3.9492, y: 3.9492, z: 3.9492}
   m_Children: []
   m_Father: {fileID: 0}
